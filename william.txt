@@ -1,0 +1,1 @@
+print("this is the day the lord has made glory be to God")
